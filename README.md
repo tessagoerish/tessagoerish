@@ -1,6 +1,6 @@
 # Hi, I'm Tessa Goerish!
 
-Biomedical data and bioinformatics developer focused on computational biology, immune repertoire analysis, and applied machine learning for biological data.
+I'm a biomedical data and bioinformatics developer focused on computational biology, immune repertoire analysis, and applied machine learning for biological data.
 
 I enjoy building tools and workflows that combine:
 - single-cell sequencing analysis

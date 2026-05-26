@@ -67,19 +67,6 @@ Research-focused project exploring machine learning approaches for predicting pr
 
 ---
 
-### Molecular Biology Lab Inventory System
-Desktop application for managing laboratory inventory, suppliers, purchase tracking, and restocking alerts.
-
-**Features**
-- inventory management
-- supplier management
-- database integration
-- GUI-based workflows
-
-**Tech:** Python, Tkinter, MySQL
-
----
-
 ## What I'm Working On
 
 - Building reproducible bioinformatics workflows

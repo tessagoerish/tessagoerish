@@ -10,7 +10,7 @@ I enjoy building tools and workflows that combine:
 
 ---
 
-## 🔬 Current Interests
+## Current Interests
 
 - Immune repertoire analysis with TRUST4 and scRNA-seq data
 - Machine learning for antibody developability prediction

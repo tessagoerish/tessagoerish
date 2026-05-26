@@ -1,16 +1,102 @@
-## Hi there 👋
+# Hi, I'm Tessa Goerish!
 
-<!--
-**tessagoerish/tessagoerish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical data and bioinformatics developer focused on computational biology, immune repertoire analysis, and applied machine learning for biological data.
 
-Here are some ideas to get you started:
+I enjoy building tools and workflows that combine:
+- single-cell sequencing analysis
+- antibody discovery research
+- data engineering
+- scientific software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Current Interests
+
+- Immune repertoire analysis with TRUST4 and scRNA-seq data
+- Machine learning for antibody developability prediction
+- Biomedical data management systems
+- Bioinformatics workflow automation
+- Computational approaches for therapeutic antibody discovery
+
+---
+
+## Tech Stack
+
+### Programming & Scripting
+- Python
+- R
+- SQL
+- Bash/Linux
+
+### Bioinformatics & Data Science
+- Seurat
+- scRNA-seq analysis
+- AIRR-seq analysis
+- Cell Ranger
+- TRUST4
+- Biopython
+- pandas
+- scikit-learn
+
+### Databases & Software
+- MySQL
+- Tkinter
+- Git/GitHub
+
+---
+
+## Featured Projects
+
+### Immune Repertoire Analysis Pipeline
+Tools and workflows for processing single-cell immune repertoire sequencing data using TRUST4, Cell Ranger, and downstream analysis pipelines.
+
+**Tech:** Python, Linux, scRNA-seq, AIRR-seq
+
+---
+
+### Antibody Developability ML
+Research-focused project exploring machine learning approaches for predicting promising antibody candidates from sequence and experimental metadata.
+
+**Focus Areas**
+- sequence preprocessing
+- feature engineering
+- exploratory modeling
+- antibody developability metrics
+
+**Tech:** Python, pandas, scikit-learn
+
+---
+
+### Molecular Biology Lab Inventory System
+Desktop application for managing laboratory inventory, suppliers, purchase tracking, and restocking alerts.
+
+**Features**
+- inventory management
+- supplier management
+- database integration
+- GUI-based workflows
+
+**Tech:** Python, Tkinter, MySQL
+
+---
+
+## What I'm Working On
+
+- Building reproducible bioinformatics workflows
+- Exploring ML applications in therapeutic antibody discovery
+- Improving scientific data management systems
+- Expanding computational biology software projects
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/tessa-goerish/
+- GitHub: https://www.github.com/tessagoerish
+
+
+---
+
+## Fun Fact
+
+I enjoy combining biology, data science, and software engineering to solve complex research problems.

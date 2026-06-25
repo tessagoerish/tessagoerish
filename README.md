@@ -27,6 +27,7 @@ I enjoy building tools and workflows that combine:
 - R
 - SQL
 - Bash/Linux
+- Azure/Databricks
 
 ### Bioinformatics & Data Science
 - Seurat

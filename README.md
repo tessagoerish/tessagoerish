@@ -30,14 +30,13 @@ I enjoy building tools and workflows that combine:
 - Azure/Databricks
 
 ### Bioinformatics & Data Science
-- Seurat
+- Seurat, scanpy, scirpy
 - scRNA-seq analysis
-- AIRR-seq analysis
 - Cell Ranger
 - TRUST4
 - Biopython
-- pandas
-- scikit-learn
+- pandas, numpy, matplotlib
+- scikit-learn, XGBoost
 
 ### Databases & Software
 - MySQL
@@ -50,8 +49,8 @@ I enjoy building tools and workflows that combine:
 
 ### Immune Repertoire Analysis Pipeline
 Tools and workflows for processing single-cell immune repertoire sequencing data using TRUST4, Cell Ranger, and downstream analysis pipelines.
-
-**Tech:** Python, Linux, scRNA-seq, AIRR-seq
+- PI script
+**Tech:** Python, Linux, scRNA-seq
 
 ---
 
@@ -64,7 +63,7 @@ Research-focused project exploring machine learning approaches for predicting pr
 - exploratory modeling
 - antibody developability metrics
 
-**Tech:** Python, pandas, scikit-learn
+**Tech:** Python, pandas, XGBoost
 
 ---
 

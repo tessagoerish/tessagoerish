@@ -49,7 +49,6 @@ I enjoy building tools and workflows that combine:
 
 ### Immune Repertoire Analysis Pipeline
 Tools and workflows for processing single-cell immune repertoire sequencing data using TRUST4, Cell Ranger, and downstream analysis pipelines.
-- PI script
 **Tech:** Python, Linux, scRNA-seq
 
 ---
